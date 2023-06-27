@@ -6,7 +6,7 @@
     "explorer.compactFolders": false,
     "terminal.integrated.fontSize": 24,
     "editor.rulers": [80, 120],
-    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.colorTheme": "Default Dark Modern",
     "workbench.iconTheme": "material-icon-theme",
     "code-runner.executorMap": {
       "python": "clear ; python -u"
@@ -17,7 +17,6 @@
     "terminal.integrated.fontFamily": "",
     "editor.fontLigatures": false,
     "[python]": {
-      "editor.defaultFormatter": "ms-python.autopep8",
       "editor.tabSize": 4,
       "editor.insertSpaces": true,
       "editor.formatOnSave": true,
